@@ -1,0 +1,6 @@
+{
+  "name": "Elysed RPG — Server SA-MP",
+  "description": "Landing page oficial pentru comunitatea Elysed RPG (SA-MP). Sisteme moderne, design minimalist inspirat de Apple și economie stabilă.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
